@@ -13,7 +13,22 @@
   ## Installation 
   Download the code. From the command line run NPM install for required dependicies and then NPM run start to run the web app.
   ## Usage 
-  Open browser and type http://localhost:3001/ to run this application on your local machine.
+* Clone this repository to use this application on local machine.
+
+* To install necessary dependencies, run the following command :
+
+```
+npm i
+```
+
+* The application will be invoked with the following command: This will start localhost server on PORT 3000.
+
+```
+node server.js
+```
+
+* Open browser and type `http://localhost:3000/` to run this application on your local machine.
+
   ## License
   MIT-License
   ## Contributers
